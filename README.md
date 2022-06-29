@@ -1,0 +1,2 @@
+# competitiveprogramming
+competitive programming exercises
